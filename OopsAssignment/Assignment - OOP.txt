@@ -1,0 +1,23 @@
+Write a program that:
+
+1. Collects a family's details from the console. This can include:
+
+	a. Firstname
+	b. Lastname
+	c. Age
+	d. Phone Number
+		1. Office
+		2. Home
+		3. Mobile
+	e. Address
+		1. Permanent
+		2. Current
+	f. Position (eg: Father, Daughter etc.)
+
+Store it as a complex data structure and then display all the details of the family.
+
+2. Search on the basis of any parameter (Firstname, Lastname, Phone Number) and display all the details of the 'matching' family member.
+
+3. Using the search logic above, update any parameter of a family member and display all of his / her information.
+
+4. Sort the family members on the basis of any parameter and display all of them in order.
