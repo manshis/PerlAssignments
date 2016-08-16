@@ -1,0 +1,12 @@
+UID,NAME,PHONE_NO,EMAIL,AGE
+01,Mansi,9256843255,ece.manshi@gmail.com,24
+02,Rahul,uhikhi541,rahul@gmail.com,21
+a1,Aarti,4521845215,aarti@gmail.com,21
+03,ao784,9854327823,ao@gmail.com,26
+04,Imran,5612784523,imran.com,27
+05,Tanmay,9517538426,tan@gmail.com,ji
+06,Madhu,9638527412,madhu@gmail.com,89777777770
+07,Rani,7856239514,rani@gmail.com,34
+08,Xyz,9586742315,xyz@gmail.com,25
+09,Sia,56176186164245,sia@gmail.com,31
+10,Anmol,8447373176,anmol@gmail.com,22

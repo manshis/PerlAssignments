@@ -1,0 +1,22 @@
+Write a program that:
+
+1. Reads a file containing information on different people. The data is comma separated.
+
+2. Validates that all the data for each person is correct. The validation can include:
+
+1. File actually exists
+2. Names are alphabetical
+3. Phone numbers are numeric
+4. UID is numeric
+5. Email ids are of the right format (assume XYZ@XYZ.com)
+6. Age is numeric
+7. Phone numbers are either 8 digits or 10 digits
+8. Age is one to three digits
+
+and so on.
+
+3. Writes a new file with the valid information for each employee properly formatted. The formatting can include:
+
+1. All names must have first letter capital.
+2. For phone numbers of 8 digits append '020' at the start.
+3. All letters in email id must be lowercase.
