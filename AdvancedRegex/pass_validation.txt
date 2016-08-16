@@ -1,0 +1,10 @@
+use strict;   
+use warnings; 
+
+
+# see http://www.rexegg.com/regex-lookarounds.html
+my $pp = qr/^(?=[^a-z]*[a-z])(?=(?:[^A-Z]*[A-Z]){3})(?=\D*\d)\w{6,10}/;
+    for my $s ( "wrong pass", "1ABCabcdef" ){
+        print "'$s' is a valid password\n" if $s =~ /$pp/;
+    }
+

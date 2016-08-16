@@ -1,0 +1,11 @@
+use strict;   
+use warnings; 
+
+
+my $p = qr/^(<)?[a-z]+(?(1)>)$/;
+
+for my $s ( "<test>", "<test", "test>", "test" ){
+	print "$s is valid \n" if $s =~ /$p/;
+}
+
+;
