@@ -1,0 +1,9 @@
+As before, write a program that:
+
+1. Collects a family's details from the console. Create an object for each family member.
+
+2. Search on the basis of any parameter (Firstname, Lastname, Phone Number) and display all the details of the 'matching' family member. For adults, office address and phone number should be printed while for children (<18 years) home address and home number should be printed.
+
+3. Using the search logic above, update any parameter of a family member and display all of his / her information.
+
+4. Sort the family members on the basis of any parameter and display all of them in order.
